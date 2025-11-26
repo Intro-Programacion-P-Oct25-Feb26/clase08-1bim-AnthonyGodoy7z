@@ -1,7 +1,7 @@
 /*
  Agregar lo correspondiente para que el proceso siguiente permita
  sumar las notas en cada iteración y presentar en la cadena final el
- valor de la suma.
+ valor de la suma. hecho
  */
 package ejemplos02;
 
@@ -21,7 +21,7 @@ public class Ejemplo03 {
         double nota;
         boolean bandera = true;
         int salida;
-        double sumaNotas = 0;
+        double sumaNotas = 0;//hola
         
         do {
             System.out.println("Ingrese calificaciones");
